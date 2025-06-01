@@ -20,6 +20,14 @@ The app requests the following Android permissions:
 - `ACCESS_FINE_LOCATION`: To fetch and share the user’s real-time location.
 
 
+## 🛠️ Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/chaitravc/women-safety-app.git
+
+
 output images of our code:
 
    ![Image](https://github.com/user-attachments/assets/fa03326d-01bd-480e-b738-3efc496cd72f)
@@ -32,11 +40,5 @@ output images of our code:
 
   
 
-## 🛠️ Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/chaitravc/women-safety-app.git
 
 
