@@ -28,7 +28,7 @@ The app requests the following Android permissions:
    git clone https://github.com/chaitravc/women-safety-app.git
 
 
-output images of our code:
+output images of our code(Click on each image to view them properly):
 
    ![Image](https://github.com/user-attachments/assets/fa03326d-01bd-480e-b738-3efc496cd72f)
 
