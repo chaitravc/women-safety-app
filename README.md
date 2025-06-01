@@ -19,6 +19,10 @@ The app requests the following Android permissions:
 - `SEND_SMS`: To send alert messages.
 - `ACCESS_FINE_LOCATION`: To fetch and share the user’s real-time location.
 
+
+
+   ![Image](https://github.com/user-attachments/assets/fa03326d-01bd-480e-b738-3efc496cd72f)
+
 ## 🛠️ Installation
 
 1. Clone the repository:
@@ -27,4 +31,3 @@ The app requests the following Android permissions:
    git clone https://github.com/chaitravc/women-safety-app.git
 
 
-   ![Image](https://github.com/user-attachments/assets/fa03326d-01bd-480e-b738-3efc496cd72f)
