@@ -20,8 +20,17 @@ The app requests the following Android permissions:
 - `ACCESS_FINE_LOCATION`: To fetch and share the user’s real-time location.
 
 
+output images of our code:
 
    ![Image](https://github.com/user-attachments/assets/fa03326d-01bd-480e-b738-3efc496cd72f)
+
+  ![Image](https://github.com/user-attachments/assets/376c03a1-839e-4e50-9e47-eef143b10496)
+
+  ![Image](https://github.com/user-attachments/assets/1962d767-96ee-41a0-93ca-46cd5fe44b52)
+
+  ![Image](https://github.com/user-attachments/assets/c1c34e8a-6752-4360-a0e3-25b382d7514e)
+
+  
 
 ## 🛠️ Installation
 
